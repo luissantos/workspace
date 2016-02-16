@@ -1,0 +1,13 @@
+{
+    "name": "luissantos/rabbitmq",
+    "description": "RabbitMQ scripts",
+    "authors": [
+        {
+            "name": "Luis Santos",
+            "email": "luis@luissantos.pt"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}

@@ -2,7 +2,7 @@
 
 # Deletes Talend cache jar files
 
-TALEND_HOME="/Users/luissantos/Development/TOS_DI-20150702_1326-V6.0.0"
+TALEND_HOME="/Users/luissantos/Development/TOS_DI-20151214_1327-V6.1.1"
 
 rm -R -f ~/.m2/repository/org/talend/libraries/migration-lib-*
 
